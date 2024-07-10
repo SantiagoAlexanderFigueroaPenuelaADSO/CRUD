@@ -1,0 +1,35 @@
+{
+  "users":[
+    {
+      "id":1,
+      "nombre":"Jose",
+      "apellido":"Puello",
+      "documento":1096065310,
+      "tipo_doc":1,
+      "correo":"josedanipuello@gmail.com",
+      "direccion":"calle 2A #16-71"
+    }
+  ],
+  "docs":[
+    {
+    "id":1,
+    "nombre":"CC"
+    },
+    {
+    "id":2,
+    "nombre":"TI"
+    },
+    {
+    "id":3,
+    "nombre":"CE"
+    },
+    {
+    "id":4,
+    "nombre":"RC"
+    },
+    {
+    "id":5,
+    "nombre":"PA"
+    } 
+  ]
+}
