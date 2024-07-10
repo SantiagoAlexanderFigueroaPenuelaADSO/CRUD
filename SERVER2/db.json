@@ -5,10 +5,16 @@
       "nombre":"Jose",
       "apellido":"Puello",
       "documento":1096065310,
-      "tipo_doc":1,
+      "tipo_doc":"CC",
       "correo":"josedanipuello@gmail.com",
-      "direccion":"calle 2A #16-71"
-    }
+      "direccion":"calle 2A #16-71",
+      "accion": {
+        "modificar": "<button class=\"btn-primary modificar-btn\">Modificar</button><button class=\"btn-danger eliminar-btn\">Eliminar</button>",
+        "eliminar": ""
+      }
+
+    }  
+
   ],
   "docs":[
     {
@@ -25,11 +31,8 @@
     },
     {
     "id":4,
-    "nombre":"RC"
-    },
-    {
-    "id":5,
     "nombre":"PA"
-    } 
+    }
+    
   ]
 }
